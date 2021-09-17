@@ -1,9 +1,13 @@
 # _Unicorns are real_
 
+[Baixe os arquivos][baixar] aqui.
 Uma página web **fabulosa** contando a origem, os mitos e a verdade sobre os
 unicórnios.
 
-![](docs/holy-crap-i-look-fabulous.jpg)
+<img src="docs/holy-crap-i-look-fabulous.jpg" style="float: right">
+
+[baixar]: https://github.com/fegemo/cefet-front-end-unicorns/archive/refs/heads/main.zip
+
 
 ## Atividade
 

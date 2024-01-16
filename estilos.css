@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap");
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+#cabecalho {
+    padding: 20px 0px 13px 34px;
+    background-color: #6175f0;
+    color: #fff;
+}
+
+#cabecalho h1 {
+    font-family: "Kaushan Script", cursive;
+    font-size: 36px;
+}
+
+#cabecalho h2 {
+    font-family: "Times New Roman", Times, serif;
+}
+
+#imagem-principal {
+    width: 310px;
+    float: left;
+    margin-right: 13px;
+}
+
+div#verdade h2 {
+    font-size: 24px;
+    font-family: "Times New Roman", Times, serif;
+    display: inline;
+}
+
+div#verdade p {
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#hoje {
+    background-color: #f8cef7;
+    float: right;
+    width: 405px;
+    padding: 20px 35px 30px 35px;
+}

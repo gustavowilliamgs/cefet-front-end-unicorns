@@ -6,6 +6,7 @@
 
 body {
     margin: 0;
+    overflow-x: hidden;
 }
 
 #cabecalho {
@@ -45,4 +46,50 @@ div#verdade p {
     float: right;
     width: 405px;
     padding: 20px 35px 30px 35px;
+    border: 1px solid #ff56fb;
+    text-align: center;
+    clear: left;
+}
+
+#hoje h2 {
+    font-size: 24px;
+    font-family: "Times New Roman", Times, serif;
+}
+
+hoje h3 {
+    font-size: 18px;
+    font-family: "Times New Roman", Times, serif;
+}
+
+#hoje img {
+    width: 112px;
+}
+
+#musica {
+    font-family: "Times New Roman", Times, serif;
+    clear: left;
+    margin-left: 12px;
+}
+
+#musica p {
+    width: 350px;
+}
+
+#musica p:nth-child(2n) {
+    padding-left: 34px;
+}
+
+/* #musica p:nth-last-child(2),
+#musica p:nth-last-child(1) {
+    background-color: #c4caf3;
+    color: #004a79;
+} */
+
+.footer-desafio {
+    display: block;
+    background-color: #c4caf3;
+    color: #004a79;
+    margin-left: -12px;
+    padding-left: 12px;
+    padding-bottom: 12px;
 }
